@@ -1,0 +1,5 @@
+# npm init -y
+# npm i -g vercel@latest
+# npm i @vercel/speed-insights
+# vercel --prod
+# vercel deploy
