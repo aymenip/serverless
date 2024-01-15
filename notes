@@ -1,5 +1,9 @@
 # npm init -y
 # npm i -g vercel@latest
-# npm i @vercel/speed-insights
+# npm install mongodb
 # vercel --prod
-# vercel deploy
+
+
+
+
+# package.json "type": "module",
